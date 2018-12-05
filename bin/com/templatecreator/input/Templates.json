@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "title": "Welcome Template",
+        "message": "{FIRSTNAME}, and welcome to {COMPANY}! Room {ROOM} is now ready for you. Enjoy your stay and let us know if you need anything."
+    },
+    {
+        "id": 2,
+        "title": "Room Cleaning Template",
+        "message": "{FIRSTNAME}! Your room {ROOM} is currently being cleaned. We will message you again when it is ready. Thank you for your patience and thank you for choosing {COMPANY} in {CITY}!"
+    },
+    {
+        "id": 3,
+        "title": "Issue Template",
+        "message": "{FIRSTNAME}. Thank you for letting us know of the issue. We will send someone to you shortly."
+    },
+    {
+        "id": 4,
+        "title": "Exit Template",
+        "message": "{FIRSTNAME}! Thank you for staying with us at {COMPANY}. We hope you had a pleasant time and look forward to having you again!"
+    },
+    {
+        "id": 5,
+        "title": "Bad Weather Template",
+        "message": "this is a message to inform all guests of the inclement weather currently. Please use caution if you are going out. Thank you and have a great night!"
+    },
+    {
+        "id": 6,
+        "title": "Test All",
+        "message": "First name: {FIRSTNAME}, Last name: {LASTNAME}, Full name: {FIRSTNAME} {LASTNAME}, Room number: {ROOM}, Company: {COMPANY}, City: {CITY}. Timezone: {TIMEZONE}"
+    }
+]
